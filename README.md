@@ -1,1 +1,2 @@
-# ice-build-splitchunk
+# README
+ice拆包插件
